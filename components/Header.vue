@@ -7,7 +7,7 @@
         </h1>
       </span>
       <span class="menu">
-        ABOUT // VLOGS // PORTFOLIO
+        <a href="">ABOUT</a> // <a href="">VLOG</a> // <a href="">PORTFOLIO</a>
       </span>
     </div>
   </header>
@@ -17,8 +17,9 @@
 
 header {
   background-color: #000000;
+  border-bottom: 2px solid #333333;
   color: #ffffff;
-  font-size: 1.5rem;
+  font-size: 1rem;
   padding: 0.2rem 0.5rem;
   text-align: left;
   width: 100%;
@@ -34,17 +35,23 @@ span {
 
 .menu {
   float: right;
-  padding-top: 0.4rem;
+  font-size: 1.5rem;
+  padding-top: 0.3rem;
   text-align: right;
 }
 
-@media (max-width: 628px) {
+.menu a {
+  color: #ffffff;
+}
+
+// Media sizing for mobile
+
+@media (max-width: 598px) {
   header {
-    height: 5rem;
+    height: 4.7rem;
   }
 
   .menu {
-    font-size: 1.5rem;
     padding-top: 0;
   }
 }
