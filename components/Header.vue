@@ -29,6 +29,10 @@ span {
   display: inline-block;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
 .logo {
   padding-right: 1rem;
 }
