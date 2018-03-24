@@ -104,6 +104,10 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  cursor: pointer;
+}
+
 // CUSTOM
 .content {
   padding: 0.5rem 0.5rem;

@@ -7,15 +7,15 @@
       <br>
       <ul class="about-blurb">
         <li class="blurb-first">Web Developer + Illustrator</li>
-        <li class="blurb-link">Senior Web Engineer <a href="">@CogoLabs</a></li>
-        <li class="blurb-link">Graduate of <a href="">@LaunchAcademy</a></li>
-        <li class="blurb-link">Occasionaly <a href="">Vlogs on YouTube</a></li>
+        <li class="blurb-link">Senior Web Engineer <a href="https://twitter.com/CogoLabs">@CogoLabs</a></li>
+        <li class="blurb-link">Graduate of <a href="https://twitter.com/LaunchAcademy">@LaunchAcademy</a></li>
+        <li class="blurb-link">Vlogs every week on <a href="https://www.youtube.com/user/alacritythief">YouTube</a></li>
         <li class="social-links">
-          <a href=""><span class="icon-twitter-squared"></span></a>
-          <a href=""><span class="icon-linkedin-squared"></span></a>
-          <a href=""><span class="icon-github-squared"></span></a>
-          <a href=""><span class="icon-youtube-squared"></span></a>
-          <a href=""><span class="icon-instagram"></span></a>
+          <a href="https://twitter.com/alacritythief"><span class="icon-twitter-squared"></span></a>
+          <a href="https://www.linkedin.com/in/alacritystudios/"><span class="icon-linkedin-squared"></span></a>
+          <a href="https://github.com/alacritythief"><span class="icon-github-squared"></span></a>
+          <a href="https://www.youtube.com/user/alacritythief"><span class="icon-youtube-squared"></span></a>
+          <a href="https://www.instagram.com/alacritythief/"><span class="icon-instagram"></span></a>
         </li>
       </ul>
     </div>

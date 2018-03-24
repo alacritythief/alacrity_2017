@@ -3,7 +3,7 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: 'alacrity_2017',
+    title: 'alacrity studios',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -30,8 +30,8 @@ module.exports = {
     /*
     ** Run ESLint on save
     */
-    extend (config, ctx) {
-      if (ctx.dev && ctx.isClient) {
+    extend (config, { isDev, isClient }) {
+      if (isDev && isClient) {
         config.module.rules.push({
           enforce: 'pre',
           test: /\.(js|vue)$/,

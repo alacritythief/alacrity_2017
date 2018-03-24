@@ -7,7 +7,7 @@
         </h1>
       </span>
       <span class="menu">
-        <a href="">ABOUT</a> // <a href="">VLOG</a> // <a href="">PORTFOLIO</a>
+        <a href="https://github.com/alacritythief">GITHUB</a> // <a href="https://www.youtube.com/user/alacritythief">VLOGS</a> // <a href="http://portfolio.alacritystudios.com/">ILLUSTRATION</a>
       </span>
     </div>
   </header>
